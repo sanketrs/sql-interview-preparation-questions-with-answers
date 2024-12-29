@@ -1,0 +1,1 @@
+# Common Mistakes in SQL 
