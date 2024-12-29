@@ -1,7 +1,7 @@
 # SQL Interview Preparation Questions with Answers
 
 ## Overview
-Welcome to the **SQL Interview Preparation Questions with Answers** repository! This project is designed as a comprehensive resource for aspiring data analysts, data engineers, and database administrators. It provides a structured collection of 500+ SQL interview questions and answers, organized by difficulty level and topic. Each section is prefixed with numbers for an intuitive learning order. Whether you are preparing for a technical interview or enhancing your SQL skills, this repository serves as a one-stop solution.
+**SQL Interview Preparation Questions with Answers** repository! This project is designed as a comprehensive resource for aspiring data analysts, data engineers, and database administrators. It provides a structured collection of 500+ SQL interview questions and answers, organized by difficulty level and topic. Each section is prefixed with numbers for an intuitive learning order. Whether you are preparing for a technical interview or enhancing your SQL skills, this repository serves as a one-stop solution.
 
 ## Why Use This Repository?
 - Covers a wide range of SQL topics, from basics to advanced concepts.
