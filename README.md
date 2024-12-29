@@ -118,4 +118,4 @@ We welcome contributions! Fork the repository, make your changes, and submit a p
 This project is licensed under the terms specified in the `LICENSE` file.
 
 ## Contact
-For questions or feedback, please reach out to [Your Name] at [kaisanket@gmail.com].
+For questions or feedback, please reach out to [Sanket Rajaram] at [kaisanket@gmail.com].
